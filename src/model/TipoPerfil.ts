@@ -1,0 +1,5 @@
+export enum TipoPerfil {
+    NORMAL = "NORMAL",
+    PROFESSOR_ENSINO_MEDIO = "PROFESSOR_ENSINO_MEDIO",
+    RURAL = "RURAL"
+}
